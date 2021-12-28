@@ -1,0 +1,4 @@
+PARAM SCALAR uint x 
+DEF SCALAR uint y = x
+DEF SCALAR uint z = (x + 1) / 3
+CON z < y 
