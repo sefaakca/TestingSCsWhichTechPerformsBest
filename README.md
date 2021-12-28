@@ -8,6 +8,30 @@ Implementation of the techniques are publicly available. In addition, the way to
 
 PS: We used two different dataset to compare the effectiveness of the techniques. The datasets are also publicly available under DATASET folder.
 
+
+This repository created for our research paper " Testing Smart Contracts: Which Technique Performs Best?" that is published on 15th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM) 2021.
+
+Paper is available in the link below: 
+
+https://github.com/sefaakca/Publications
+
+# Cite Our Work
+
+If you use our research for your research, please kindly cite our work in your paper.
+
+```bibtex
+@inproceedings{akca2021testing,
+  title={Testing Smart Contracts: Which Technique Performs Best?},
+  author={Akca, Sefa and Peng, Chao and Rajan, Ajitha},
+  booktitle={Proceedings of the 15th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)},
+  pages={1--11},
+  year={2021}
+}
+
+```
+
+> Akca, S., Peng, C. and Rajan, A., 2021, October. Testing Smart Contracts: Which Technique Performs Best?. In Proceedings of the 15th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM) (pp. 1-11).
+
 # Dependencies of the project
 
 solidity compiler - this project tested under two different solidity compiler version 0.4.25 && 0.5.3
