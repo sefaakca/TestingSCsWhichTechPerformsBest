@@ -1,4 +1,4 @@
-# empirical_evaluation_for_sc
+# Testing Smart Contracts: Which Technique Performs Best?
 
 We implemented four different testing techniques to assses the effectiveness of the test generation techniques for Solidity smart contracts. These techniques are Blackbox fuzzing, Greybox fuzzing with an SMT solver, Genetic algorithm with a single objective, and Genetic algorithm with multiple objectives.
 
